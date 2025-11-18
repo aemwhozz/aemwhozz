@@ -4,9 +4,7 @@
 
 ## 👋 About Me
 
-Hello! I'm António, a tech enthusiast, AI engineer, and entrepreneur based in Lisbon. I co-founded a tech startup and love building AI-driven solutions that make a real impact. My passion lies at the intersection of artificial intelligence and practical applications that improve people's daily lives.
-
-> "My mission is to leverage technology and AI to create meaningful solutions that improve people's lives."
+Hey there! I'm António, a Physiotherapist, a AI and tech enthusiast, and entrepreneur based in Lisbon. I'm building a health tech startup and I love creating solutions that make a real impact. 
 
 ## 💻 Tech Stack & Tools
 
@@ -22,7 +20,7 @@ Hello! I'm António, a tech enthusiast, AI engineer, and entrepreneur based in L
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
 
-## 🚀 Highlights
+##  Highlights
 
 **Professional Experience & Key Projects:**
 
@@ -43,7 +41,7 @@ Hello! I'm António, a tech enthusiast, AI engineer, and entrepreneur based in L
   <img src="https://raw.githubusercontent.com/aemwhozz/aemwhozz/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antonio-emilio-martins" target="_blank">
