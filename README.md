@@ -25,7 +25,7 @@ Hey there! I'm António, a Physiotherapist, a AI and tech enthusiast, and entrep
 ##  Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antonio-emilio-martins" target="_blank">
+  <a href="https://www.linkedin.com/in/ammoov" target="_blank">
     <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn"/>
   </a>
 </p>
